@@ -1,4 +1,4 @@
-# 👻 necroshell
+# 👻 Necroshell
 
 An offline Unix pseudo-terminal (PTY) wrapper that haunts your terminal with cryptic, eerie, and poetic observations powered entirely by local open-weight AI.
 
